@@ -1,3 +1,4 @@
+# https://atcoder.jp/contests/abc244/tasks/abc244_c
 
 n = int(input())
 pool = [0] + [None] * (2*n+1)
