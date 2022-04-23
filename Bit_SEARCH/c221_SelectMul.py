@@ -1,3 +1,4 @@
+# https://atcoder.jp/contests/abc221/tasks/abc221_c
 
 # bit全探索
 if __name__ == '__main__':

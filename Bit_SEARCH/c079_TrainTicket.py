@@ -1,3 +1,4 @@
+# https://atcoder.jp/contests/abc079/tasks/abc079_c
 
 if __name__ == '__main__':
     nums = list(input())
