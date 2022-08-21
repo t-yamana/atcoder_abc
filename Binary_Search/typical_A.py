@@ -22,8 +22,4 @@ if ubnd == len(arr):
   # 一度も条件合致が見つかっていない
   print(-1)
 else:
-  if arr[lbnd] < x:
-    # [..., x-1, x, ...]
-    print(ubnd)
-  else:
-    print(lbnd)
+  print(ubnd)
