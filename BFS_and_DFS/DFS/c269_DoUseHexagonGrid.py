@@ -3,7 +3,6 @@
 import sys
 def I(): return int(sys.stdin.readline().rstrip())
 def TI(): return tuple(map(int,sys.stdin.readline().rstrip().split()))
-
 sys.setrecursionlimit(1_000_000)
 
 N = I()
